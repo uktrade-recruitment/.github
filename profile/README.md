@@ -14,7 +14,7 @@ It must not be used for project work, product development, proofs of concept, or
 Repositories in this organisation must:
 
 - Be created for a specific recruitment activity
-- Be public while candidates require access
+- Be public only while candidates require access
 - Contain only fictional or deliberately simplified code that does not replicate, connect to, or affect DBT services, products, or production codebases
 - Not contain sensitive information, credentials, personal data, or internal service configuration
 
